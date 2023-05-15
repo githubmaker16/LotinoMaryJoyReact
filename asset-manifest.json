@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LotinoMaryJoyReact/static/css/main.5457e755.css",
+    "main.js": "/LotinoMaryJoyReact/static/js/main.ba81c8a2.js",
+    "static/js/787.faa06649.chunk.js": "/LotinoMaryJoyReact/static/js/787.faa06649.chunk.js",
+    "index.html": "/LotinoMaryJoyReact/index.html",
+    "main.5457e755.css.map": "/LotinoMaryJoyReact/static/css/main.5457e755.css.map",
+    "main.ba81c8a2.js.map": "/LotinoMaryJoyReact/static/js/main.ba81c8a2.js.map",
+    "787.faa06649.chunk.js.map": "/LotinoMaryJoyReact/static/js/787.faa06649.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5457e755.css",
+    "static/js/main.ba81c8a2.js"
+  ]
+}
